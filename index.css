@@ -1,0 +1,26 @@
+body{
+    margin: auto;
+    font-family: system-ui;
+}
+/*header section*/
+.box{
+    height: 400px;
+    width: 70%;
+   /* border: 2px solid green;*/
+    margin-left: 14%;
+    background-color: hsl(0, 20%, 99%);
+}
+.box img{
+    width: 100%;
+    height: 100%;
+}
+/*Detail section*/
+a{
+    line-height: 60px;
+    text-decoration: none;
+}
+/*Footer section css*/
+.footertext{
+    text-align: center;
+    font-weight: bold;
+}
